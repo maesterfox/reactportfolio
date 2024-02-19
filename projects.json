@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Gazetteer",
+    "description": "Cutting-edge mapping application designed with a mobile-first approach.",
+    "imgUrl": "projImg1",
+    "altText": "Gazetteer",
+    "modalContent": {
+      "title": "Gazetteer 🌍",
+      "content": [
+        "Created as part of my IT Career Switch traineeship, Gazetteer is a cutting-edge mapping application designed with a 'mobile-first' approach.",
+        "Built on a robust stack of modern web technologies, it provides real-time profiling for countries around the world, offering demographic, climatic, and various other types of data.",
+        "Ideal for researchers, travelers, and geography enthusiasts."
+      ],
+      "features": [
+        "Real-Time Map Updates 🌍: The app continuously updates maps to provide the latest information."
+      ],
+      "techStack": [
+        "HTML/CSS",
+        "JavaScript",
+        "PHP",
+        "jQuery",
+        "API"
+      ],
+      "link": "https://davidfoxdev.co.uk/gaz"
+    }
+  },
+  {
+    "title": "Company Directory",
+    "description": "🌐 Company personnel databases, illustrating organizational hierarchies, employee reporting lines, and locations.",
+    "imgUrl": "projImg2",
+    "altText": "Company Directory",
+    "modalContent": {
+      "title": "Company Directory 📁",
+      "content": [
+        "Created as part of my IT Career Switch traineeship, this web application 🌐 efficiently manages company personnel databases, illustrating organizational hierarchies, employee reporting lines, and locations.",
+        "It’s responsive across desktop 💻 and mobile 📱 platforms."
+      ],
+      "features": [
+        "Add, Edit, and Delete Personnel Records 💼: Users can effortlessly manage employee information, keeping the database up-to-date and accurate.",
+        "View Personnel by Department and Location 🗃️: Offers a structured view of employees, sorted by their department and workplace, enhancing organizational oversight.",
+        "Search Personnel Records 🔍: A powerful search feature that allows quick retrieval of specific employee details."
+      ],
+      "techStack": [
+        "HTML/CSS",
+        "JavaScript",
+        "Bootstrap",
+        "PHP",
+        "MySQL"
+      ],
+      "link": "https://davidfoxdev.co.uk/compdirect"
+    }
+  },
+    {
+      "title": "Tech Blog",
+      "description": "Explore my Tech Blog, a comprehensive platform dedicated to sharing knowledge and insights on technology and programming. This full-stack application 🌐 showcases:",
+      "imgUrl": "projImg3",
+      "modalContent": {
+        "title": "NodeJS Tech Blog",
+        "content": [
+          "Explore my Tech Blog, a comprehensive platform dedicated to sharing knowledge and insights on technology and programming. This full-stack application 🌐 showcases:",
+          "NodeJS and Express Backend 🚀: Powering the server-side with efficiency and scalability to handle dynamic content and user interactions.",
+          "MongoDB Database Integration 🗄️: Utilizing MongoDB for robust and flexible data storage and retrieval, facilitating efficient content management.",
+          "AWS Deployment ☁️: Hosted on AWS EC2, ensuring reliable and scalable cloud-based service.",
+          "User Authentication 🔐: Secure login and registration system, enabling users to contribute through comments and interactions.",
+          "Email Form with Nodemailer ✉️: Integrated contact form for direct user communication, leveraging Nodemailer for email services."
+        ],
+        "techStack": [
+          "JavaScript",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "AWS"
+        ],
+        "link": "https://blog.davidfoxdev.co.uk"
+      }
+    },
+    {
+      "title": "FoxTech IT Helpdesk",
+      "description": "Explore my Next.js IT Helpdesk, a next-generation IT Helpdesk built with Next.js, Tailwind CSS, and Supabase. This project provides a streamlined and intuitive interface for managing support tickets, full authentication setup, ticket creation, deletion, ticket prioritization, with email sign up and verification.",
+      "imgUrl": "projImg4",
+      "modalContent": {
+        "title": "Next.js Helpdesk",
+        "content": [
+          "Explore my Next.js IT Helpdesk, a next-generation IT Helpdesk built with Next.js, Tailwind CSS, and Supabase. This project provides a streamlined and intuitive interface for managing support tickets, full authentication setup, ticket creation, deletion, ticket prioritization, with email sign up and verification.",
+          "Features:",
+          "Ticket Management: Create, track, and resolve tickets efficiently with categories, priorities, and assigned agents.",
+          "User Portal: Users can submit tickets, track their status, and access knowledge base articles through a dedicated portal."
+        ],
+        "techStack": [
+          "Next.js",
+          "JavaScript",
+          "Tailwind CSS",
+          "Supabase",
+          "Vercel"
+        ],
+        "link": "https://helpdesk.davidfoxdev.co.uk"
+      }
+    },
+      {
+        "title": "Netflix Clone",
+        "description": "This project is a clone of the Netflix landing page, designed to demonstrate proficiency in front-end development using HTML, CSS, and JavaScript. Key features include:",
+        "imgUrl": "projImg5",
+        "modalContent": {
+          "title": "Netflix Landing Page Clone",
+          "content": [
+            "This project is a clone of the Netflix landing page, designed to demonstrate proficiency in front-end development using HTML, CSS, and JavaScript. Key features include:",
+            "Responsive Design: Adapts seamlessly to different screen sizes, providing an optimal viewing experience.",
+            "Interactive Tabs: JavaScript-driven tabs for easy navigation through content.",
+            "Modern CSS Techniques: Utilization of Grid and Flexbox for layout, along with overlays and shadows for aesthetics."
+          ],
+          "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "link": "https://davidfoxdev.co.uk/netflix"
+        }
+      },
+      {
+        "title": "Match Predictor",
+        "description": "Delve into the Football Match Prediction Website, a specialized web application designed for football (soccer) enthusiasts eager to predict match outcomes. This innovative platform 🌐 is equipped with:",
+        "imgUrl": "projImg6",
+        "modalContent": {
+          "title": "Football Match Predictor ⚽",
+          "content": [
+            "Delve into the Football Match Prediction Website, a specialized web application designed for football (soccer) enthusiasts eager to predict match outcomes. This innovative platform 🌐 is equipped with:",
+            "Dynamic Match Input Generation 🔄: Set the stage for your predictions by specifying the number of matches. The app intelligently generates corresponding input fields, offering a tailored forecasting experience.",
+            "Team Data Fetching 📊: Gain a competitive edge with up-to-date SQL database. The app fetches key team data such as strength, average goals scored, and conceded, all sourced reliably from a PHP backend."
+          ],
+          "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "link": "https://davidfoxdev.co.uk/logandreg/game"
+        }
+      }
+    
+  
+]
