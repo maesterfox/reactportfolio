@@ -9,6 +9,8 @@ import projImg3 from "../assets/img/blog.jpg";
 import projImg4 from "../assets/img/helpdesk.jpg";
 import projImg5 from "../assets/img/netflix.jpg";
 import projImg6 from "../assets/img/betbuild.jpg";
+import projImg7 from "../assets/img/studyplanner.png";
+
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
@@ -320,6 +322,77 @@ export const Projects = () => {
                   className="btn btn-primary mt-3"
                 >
                   Visit Project
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      ),
+    },
+
+    {
+      title: "Study Plan Generator",
+      description:
+        "📚 Create personalized study plans based on subjects, study hours, and weeks.",
+      imgUrl: projImg7,
+      modalContent: (
+        <div
+          className="modal fade"
+          id="projectModal7"
+          tabIndex="-1"
+          aria-labelledby="projectModalLabel7"
+          aria-hidden="true"
+        >
+          <div className="modal-dialog">
+            <div className="modal-content">
+              <div className="modal-header">
+                <h2 className="modal-title" id="projectModalLabel7">
+                  Study Plan Generator 📅
+                </h2>
+                <button
+                  type="button"
+                  className="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div className="modal-body">
+                <p>
+                  The Study Plan Generator is a web application designed to help
+                  users create personalized study plans based on their subjects,
+                  available study hours, days per week, and total weeks of
+                  study. It is responsive across desktop 💻 and mobile 📱
+                  platforms.
+                </p>
+                <ul>
+                  <li>
+                    <strong>Modal Interface</strong>: Intuitive user experience
+                    for inputting study preferences.
+                  </li>
+                  <li>
+                    <strong>Subject Input</strong>: Input primary, secondary,
+                    and tertiary subjects.
+                  </li>
+                  <li>
+                    <strong>Study Parameters</strong>: Specify study hours, days
+                    per week, and total weeks.
+                  </li>
+                </ul>
+                <div className="tech-stack-container">
+                  <h3>Tech Stack</h3>
+                  <ul className="overlay-stack">
+                    <li>HTML/CSS</li>
+                    <li>JavaScript</li>
+                    {/* Add other technologies specific to your project */}
+                  </ul>
+                </div>
+                <a
+                  href="https://study.davidfoxdev.co.uk"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn btn-primary mt-3"
+                >
+                  Visit Study Plan Generator
                 </a>
               </div>
             </div>

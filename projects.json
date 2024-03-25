@@ -134,7 +134,30 @@
           ],
           "link": "https://davidfoxdev.co.uk/logandreg/game"
         }
-      }
+      },
+      {
+        "title": "Study Plan Generator",
+        "description": "📚 Create personalized study plans based on subjects, study hours, and weeks.",
+        "imgUrl": "projImg7",
+        "altText": "Study Plan Generator",
+        "modalContent": {
+        "title": "Study Plan Generator 📅",
+        "content": [
+        "The Study Plan Generator is a web application designed to help users create personalized study plans based on their subjects, available study hours, days per week, and total weeks of study.",
+        "It’s responsive across desktop 💻 and mobile 📱 platforms."
+        ],
+        "features": [
+        "Modal Interface 🖥️: Intuitive user experience for inputting study preferences.",
+        "Subject Input 📝: Input primary, secondary, and tertiary subjects.",
+        "Study Parameters ⏳: Specify study hours, days per week, and total weeks."
+        ],
+        "techStack": [
+        "HTML/CSS",
+        "JavaScript"
+        ],
+        "link": "https://study.davidfoxdev.co.uk"
+        }
+        }
     
   
 ]

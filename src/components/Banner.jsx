@@ -113,19 +113,25 @@ export const Banner = ({ isLoading }) => {
                     Welcome to my Portfolio
                   </span>
                   <p>
-                    A Full-stack Developer with expertise JavaScript, and
-                    multiple JS frameworks. I bring a unique perspective from
-                    diverse industry experiences. My development approach is
-                    rooted in creating efficient, scalable, and secure web
-                    applications, with a keen focus on user-centric design and
-                    functionality. Committed to continuous improvement, I
-                    actively integrate Design Systems principles, adhere to WCAG
-                    guidelines for accessibility, and employ automated testing
-                    and cross-browser compatibility to ensure high-quality,
-                    inclusive web experiences. My portfolio is a reflection of
-                    my passion for technology and my dedication to crafting
-                    solutions that meet the evolving needs of users and
-                    businesses alike.
+                    As a Full-stack Developer with a deep command of JavaScript
+                    and proficiency in various JS frameworks, I offer a blend of
+                    technical skill and creative vision, shaped by a rich
+                    tapestry of experiences across multiple industries. My
+                    approach to development is anchored in delivering solutions
+                    that are not only efficient and scalable but also secure,
+                    ensuring that each project is built on a foundation of
+                    robustness and reliability. With a user-first mindset, I
+                    prioritize user-centric design and functionality, crafting
+                    interfaces that are intuitive and engaging. My commitment to
+                    excellence extends to embracing Design Systems principles
+                    for a cohesive digital environment, adhering to WCAG
+                    guidelines to guarantee accessibility, and implementing
+                    automated testing alongside cross-browser compatibility
+                    checks to uphold the highest standards of quality. My
+                    portfolio stands as a testament to my passion for leveraging
+                    technology to address real-world challenges, embodying my
+                    dedication to developing solutions that resonate with users
+                    and drive forward business objectives.
                   </p>
                   <button onClick={() => (window.location = "#connect")}>
                     Let’s Connect <ArrowRightCircle size={28} />
