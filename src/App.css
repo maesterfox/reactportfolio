@@ -484,7 +484,9 @@ nav.navbar .navbar-toggler-icon:before {
   right: 0; /* Align to the right */
   margin-top: -20%;
   height: 60vh;
-  width: auto;
+  width: auto;	
+  filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ff6a00);
+
 }
 
 
@@ -499,6 +501,9 @@ nav.navbar .navbar-toggler-icon:before {
     height: 50vh;
     overflow: hidden;
     z-index: 1;
+	    filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ff6a00);
+
+	  
 
     }
     .banner h1 {
@@ -535,6 +540,8 @@ nav.navbar .navbar-toggler-icon:before {
     margin-top: 15%;
     left: 20rem;
     height: 40vh;
+	    filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ff6a00);
+
     }
     .banner h1 {
       font-size: 2.4rem;
@@ -554,6 +561,7 @@ nav.navbar .navbar-toggler-icon:before {
       text-shadow: 0 0 3px #FFFFFF;
       z-index: 1;  
       width: 96%;
+
   
     }
   }
@@ -567,6 +575,8 @@ nav.navbar .navbar-toggler-icon:before {
     left: 20rem;
     height: 50vh;
     overflow: hidden;
+	    filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ff6a00);
+
     }
     .banner p {
       font-size: 1.4rem;
@@ -609,6 +619,8 @@ nav.navbar .navbar-toggler-icon:before {
       left: 30rem;
       height: 45vh;
       overflow: hidden;
+	      filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ff6a00);
+
       }
       .banner p {
         font-size: 1.6rem;
@@ -653,6 +665,8 @@ nav.navbar .navbar-toggler-icon:before {
   left: 15rem;
   height: 40vh;
   overflow: hidden;
+	  filter: drop-shadow(0 0 10px #ffffff) drop-shadow(0 0 20px #ff6a00);
+
   }
 }
 
