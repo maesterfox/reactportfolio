@@ -1112,12 +1112,18 @@ nav.navbar .navbar-toggler-icon:before {
 @keyframes updown {
     0% {
         transform: translateY(-20px);
+        filter: drop-shadow(0 0 5px #ffffff) drop-shadow(0 0 10px #ff6a00);
+
     }
     50% {
         transform: translateY(20px);
+        filter: drop-shadow(0 0 15px #ffffff) drop-shadow(0 0 30px #ff6a00);
+
     }
     100% {
         transform: translateY(-20px);
+        filter: drop-shadow(0 0 5px #ffffff) drop-shadow(0 0 10px #ff6a00);
+
     }
 }
 .txt-rotate > .wrap {
